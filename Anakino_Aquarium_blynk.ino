@@ -142,7 +142,7 @@ int buzzer = 43;      // Pin de conexión del buzzer
 /////////////////////////////////////////////////////////////////
 //Blynk
 ////////////////////////////////////////////////////////////////
-char auth[] = "4c9d2ca518b04366b3de5496f99c75dd";
+char auth[] = "xxxxx";
 
   BLYNK_CONNECTED()     // This function will run every time Blynk connection is established
   {  
